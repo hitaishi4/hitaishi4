@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hitaishi4
-- 👀 I’m interested in machine learning 
+- 👀 I’m interested in machine learning, deep learning and cryptography 
 - 💞️ I’m looking to collaborate on ML and deep learning projects
 - 📫 How to reach me hitaishi@bu.edu
 - 😄 Pronouns: she/her
